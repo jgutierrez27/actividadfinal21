@@ -124,8 +124,7 @@ main{
     
 }
 main div {
-    display: flex;
-    text-align: center;
+ text-align: center;
     width: 600px;
     height: 700px;
     color:white;
