@@ -96,7 +96,7 @@ header div .content-logs div:nth-child(2) a svg{
 
 /* -------------------------- main ------------------------- */
 main h1{
-    text-align: center;
+    text-align: left;
     font-size: 40px;
 }
 main{
