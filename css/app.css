@@ -168,8 +168,11 @@ h4{
 p{text-align: center;
     margin-top: 60px;
     margin-bottom: 60px;
+    text-align: justify;
     color: black;
     font-size: medium;
     font-family:'Times New Roman', Times, serif
+   
+    
 
 }
