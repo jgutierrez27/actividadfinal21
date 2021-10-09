@@ -148,11 +148,11 @@ main div {
 .container .cards button{
     
     color: black;
-    font-size: 12px;
+    font-size: 20px;
     padding: 8px;
     border-color: black;
     border-radius: 20px;
-    background: orange;
+    background: orangered;
     margin: 12px;
     width:40%;
 }
