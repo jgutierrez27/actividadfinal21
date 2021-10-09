@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+/* Estilos del documento html Index*/
+
+/* ------------------- body ----------------- */
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* ----------------------- header ---------------------- */
+header{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px solid darkgray;
+}
+
+header div{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+}
+
+/* column one */
+header div .content-logo{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header div .content-logo img{
+    width: 100%;
+}
+
+/* column two */
+header div .content-nav{
+    width: 60%;
+}
+
+header div .content-nav nav{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header div .content-nav nav ul{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-left: 0px;
+}
+
+header div .content-nav nav ul li{
+    list-style: none;
+    padding: 5px 10px;
+}
+
+header div .content-nav nav ul li a{
+    text-decoration: none;
+    color: #020202;
+    font-family: 'Mukta', sans-serif;
+    font-size: 1.3em;
+}
+
+/* column three */
+header div .content-logs{
+    width: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+header div .content-logs div:nth-child(1){
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-right: 10px;
+}
+header div .content-logs div:nth-child(1) a svg{
+    width: 32px;
+    height: 32px;
+}
+header div .content-logs div:nth-child(2){
+    width: 50%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+header div .content-logs div:nth-child(2) a svg{
+    width: 32px;
+    height: 32px;
+}
+
+/* -------------------------- main ------------------------- */
+
+/* ----------------------------- footer --------------------- */
+footer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 30px;
+}
+
+footer div{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+
+footer div span{
+    width: 100%;
+    text-align: center;
+    color: darkgray;
+    font-size: 1.1rem;
+    font-family: sans-serif;
+}
