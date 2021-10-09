@@ -151,7 +151,7 @@ p{text-align: center;
     font-family:'Times New Roman', Times, serif
 
 }
-.container .cards div{
+ div{
     width: 100%;
     display: flex;
     justify-content: end;
