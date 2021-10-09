@@ -120,7 +120,6 @@ footer div span{
 }
 main{
     display: flex;
-    border: solid 1px;
     flex-wrap: wrap;
     
 }
