@@ -145,7 +145,7 @@ main div {
     text-align: justify;
 
 }
-.container .cards button{
+button{
     
     color: black;
     font-size: 12px;
@@ -169,7 +169,7 @@ p{text-align: center;
     margin-top: 60px;
     margin-bottom: 60px;
     color: black;
-    font-size: large;
+    font-size: medium;
     font-family:'Times New Roman', Times, serif
 
 }
