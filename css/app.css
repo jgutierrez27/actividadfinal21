@@ -114,14 +114,7 @@ main div {
     font-weight: 800;
     text-align: center;
 }
-.container .cards p{
-    display: flex;
-    padding: 0 1rem;
-    font-size: 16px;
-    font-weight: 300;
-    text-align: justify;
 
-}
  button{
     
     color: black;
