@@ -146,6 +146,7 @@ main div {
 
 }
 .container .cards button{
+    display: flex;
     color: orangered;
     font-size: 12px;
     padding: 8px;
