@@ -95,29 +95,6 @@ header div .content-logs div:nth-child(2) a svg{
 }
 
 /* -------------------------- main ------------------------- */
-
-/* ----------------------------- footer --------------------- */
-footer{
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
-    margin-top: 30px;
-}
-
-footer div{
-    width: 80%;
-    display: flex;
-    justify-content: center;
-}
-
-footer div span{
-    width: 100%;
-    text-align: center;
-    color: darkgray;
-    font-size: 1.1rem;
-    font-family: sans-serif;
-}
 main{
     display: flex;
     flex-wrap: wrap;
@@ -172,7 +149,28 @@ p{text-align: center;
     color: black;
     font-size: medium;
     font-family:'Times New Roman', Times, serif
-   
-    
 
+}
+
+/* ----------------------------- footer --------------------- */
+footer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 30px;
+}
+
+footer div{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+
+footer div span{
+    width: 100%;
+    text-align: center;
+    color: darkgray;
+    font-size: 1.1rem;
+    font-family: sans-serif;
 }
