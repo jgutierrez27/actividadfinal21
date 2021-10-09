@@ -108,9 +108,16 @@ main div {
     height: 450px;
     color:white;
 }
-container .img{
+.container .img{
     width: 330px;
     height: 220px;
+}
+.container .cards p{
+    display: flex;
+    padding: 0 1rem;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: justify;
 }
 
 h4{
