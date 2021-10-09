@@ -118,6 +118,12 @@ footer div span{
     font-size: 1.1rem;
     font-family: sans-serif;
 }
+main{
+    display: flex;
+    border: solid 2px;
+    flex-wrap: wrap;
+    
+}
 .container .cards img{
     width: 330px;
     height: 220px;
