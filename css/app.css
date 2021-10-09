@@ -143,15 +143,19 @@ h4{
     
 }
 p{text-align: center;
-    margin-top: 60px;
-    margin-bottom: 60px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     text-align: justify;
     color: black;
     font-size: medium;
     font-family:'Times New Roman', Times, serif
 
 }
-
+.container .cards div{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
 /* ----------------------------- footer --------------------- */
 footer{
     width: 100%;
