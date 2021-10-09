@@ -152,7 +152,7 @@ main div {
     padding: 8px;
     border-color: black;
     border-radius: 20px;
-    background: orangered;
+    background: orangered};
     margin: 12px;
     width:40%;
 }
@@ -161,7 +161,7 @@ h4{
     margin-top: 60px;
     margin-bottom: 60px;
     color: black;
-    font-size: medium;
+    font-size: 24px;
     font-family:'Times New Roman', Times, serif
     
 }
