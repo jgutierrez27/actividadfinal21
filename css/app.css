@@ -95,6 +95,10 @@ header div .content-logs div:nth-child(2) a svg{
 }
 
 /* -------------------------- main ------------------------- */
+main h1{
+    text-align: center;
+    font-size: 40px;
+}
 main{
     display: flex;
     flex-wrap: wrap;
@@ -108,14 +112,6 @@ main div {
     height: 450px;
     color:white;
 }
-main h1{
-    text-align: center;
-    font-size: 40px;
-}
-.container .img{
-    width: 330px;
-    height: 220px;
-}
 
 h4{
     text-align: center;
@@ -125,14 +121,7 @@ h4{
     font-size: large;
     font-family:'Times New Roman', Times, serif   
 }
-main h1
-{text-align: center;
-    margin-top: 60px;
-    margin-bottom: 60px;
-    color: black;
-    font-size: x-large;
-    font-family:'Times New Roman', Times, serif
-}
+
 p{
     margin-top: 50px;
     margin-bottom: 50px;
