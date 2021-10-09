@@ -117,7 +117,13 @@ footer div span{
     color: darkgray;
     font-size: 1.1rem;
     font-family: sans-serif;
-
+}
+main{
+    display: flex;
+    border: solid 1px;
+    flex-wrap: wrap;
+    
+}
 main div {
     text-align: center;
     width: 500px;
