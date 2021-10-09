@@ -98,11 +98,13 @@ header div .content-logs div:nth-child(2) a svg{
 main{
     display: flex;
     flex-wrap: wrap;
+    margin: auto;
+    height: auto;
     
 }
 main div {
  text-align: center;
-    width: 350px;
+    width: 400px;
     height: 450px;
     color:white;
 }
