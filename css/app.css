@@ -147,12 +147,18 @@ main div {
 }
 .container .cards button{
     
-    color: orangered;
+    color: black;
     font-size: 12px;
     padding: 8px;
     border-color: black;
     border-radius: 20px;
-    background:black;
+    background: orange;
     margin: 12px;
     width:40%;
+}
+h4{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    color: hsl(233, 100%, 62%);
 }
