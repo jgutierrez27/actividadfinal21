@@ -134,7 +134,7 @@ main div {
     height: 220px;
 }
 .container .cards h4{
-    font-weight: 600;
+    font-weight: 800;
     text-align: center;
 }
 .container .cards p{
@@ -148,9 +148,9 @@ main div {
     color: orangered;
     font-size: 12px;
     padding: 8px;
-    border-color: plum;
+    border-color: black;
     border-radius: 20px;
-    background: rgb(9, 19, 8);
+    background:black;
     margin: 12px;
     width:40%;
 }
