@@ -118,3 +118,28 @@ footer div span{
     font-size: 1.1rem;
     font-family: sans-serif;
 }
+.container .cards img{
+    width: 330px;
+    height: 220px;
+}
+.container .cards h4{
+    font-weight: 600;
+    text-align: center;
+}
+.container .cards p{
+    padding: 0 1rem;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: justify;
+
+}
+.container cards button{
+    color: orangered;
+    font-size: 12px;
+    padding: 8px;
+    border-color: plum;
+    border-radius: 20px;
+    background: rgb(19, 8, 8);
+    margin: 12px;
+    width:40%;
+}
