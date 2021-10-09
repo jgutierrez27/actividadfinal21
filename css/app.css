@@ -113,18 +113,7 @@ container .img{
     height: 220px;
 }
 
- button{
-    
-    color: black;
-    font-size: 12px;
-    padding: 8px;
-    border-color: black;
-    border-radius: 14px;
-    background: orangered;
-    margin: 6px;
-    margin-top: 60xp;
-    width:50%;
-}
+
 h4{
     text-align: center;
     margin-top: 40px;
@@ -152,6 +141,18 @@ p{
     font-family:'Times New Roman', Times, serif
 }
 
+button{
+    
+    color: black;
+    font-size: 12px;
+    padding: 8px;
+    border-color: black;
+    border-radius: 14px;
+    background: orangered;
+    margin: 6px;
+    margin-top: 60xp;
+    width:50%;
+}
 
 /* ----------------------------- footer --------------------- */
 footer{
