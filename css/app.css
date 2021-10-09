@@ -133,7 +133,7 @@ footer div span{
     text-align: justify;
 
 }
-.container cards button{
+.container .cards button{
     color: orangered;
     font-size: 12px;
     padding: 8px;
