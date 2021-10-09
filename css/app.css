@@ -149,13 +149,9 @@ p{text-align: center;
     color: black;
     font-size: medium;
     font-family:'Times New Roman', Times, serif
+}
 
-}
- div{
-    width: 100%;
-    display: flex;
-    justify-content: end;
-}
+
 /* ----------------------------- footer --------------------- */
 footer{
     width: 100%;
@@ -163,6 +159,7 @@ footer{
     justify-content: center;
     flex-direction: row;
     margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 footer div{
